@@ -32,7 +32,7 @@ This project demonstrates a **Parallax Scrolling Effect**, where background laye
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/codewithfeelings/parallax_scroll-main.git
    ```
 2. Open the `index.html` file in your browser to view the project.
 
@@ -56,7 +56,7 @@ This project demonstrates a **Parallax Scrolling Effect**, where background laye
 
 If you have any suggestions or questions, feel free to reach out!
 
-- **GitHub**: [Your GitHub Profile](https://github.com/<your-username>)
+- **GitHub**: [codewithfeelings](https://github.com/codewithfeelings)
 - **Email**: [abhragist@gmail.com](mailto:abhragist@gmail.com)
 
 ## License
